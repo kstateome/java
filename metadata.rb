@@ -2,7 +2,7 @@ name              'java'
 maintainer        'Sous Chefs'
 maintainer_email  'help@sous-chefs.org'
 license           'Apache-2.0'
-description       'Recipes and resources for installing Java and managing certificates'
+description       'Recipes and resources for installing Java and managing certificates.  modified from main 4.1.0 to work with older chef-clients'
 long_description  IO.read(File.join(File.dirname(__FILE__), 'README.md'))
 version           '4.1.0'
 
