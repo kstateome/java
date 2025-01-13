@@ -25,4 +25,4 @@ depends 'windows'
 
 source_url 'https://github.com/sous-chefs/java'
 issues_url 'https://github.com/sous-chefs/java/issues'
-chef_version '>= 13.4'
+chef_version '>= 12.21.12'
